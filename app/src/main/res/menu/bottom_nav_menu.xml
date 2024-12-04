@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:title="냉장고"
+        android:icon="@drawable/bottom_nav_home"/>
+    <item android:id="@+id/blank"
+        android:title=""
+        android:enabled="false"/>
+    <item
+        android:id="@+id/nav_recipe"
+        android:title="레시피"
+        android:icon="@drawable/bottom_nav_recipe"/>
+</menu>
